@@ -1,4 +1,4 @@
-//....the start a browser based game as seen on https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=6562s
+//.....the start a browser based game as seen on https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=6562s
 const canvas = document.querySelector('canvas')
 const c = canvas.getContext('2d')
 
